@@ -1,0 +1,2 @@
+vertices,processes,threads,edge_density,change_ratio,time_ms,affected_vertices
+20,2,2,0.2,0.1,24,0
