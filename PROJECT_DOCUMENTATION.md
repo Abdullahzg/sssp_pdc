@@ -474,3 +474,6 @@ The performance analysis shows good strong scaling efficiency up to moderate pro
 3. MPI: The Message Passing Interface Standard: https://www.mpi-forum.org/
 4. OpenMP: Multi-platform Shared-memory Parallel Programming: https://www.openmp.org/
 5. NetworkX: Network Analysis in Python: https://networkx.org/ 
+
+
+doc: https://docs.google.com/document/d/1ElKETYXupK2BicJkoEKKkBg1Aw79dYtSAZjGtHhLz8M/edit?usp=sharing
